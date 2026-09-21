@@ -1,7 +1,11 @@
 name: astrbot_plugin_mcsmanager
-display_name: MCSManager 助手
-author: 5060ti个马力的2099、Kx501
-desc: 可以通过指令管理mcsmanager内实例的插件:主要功能:通过指令开/关mcsm实例，mcsm节点状态（内存，cpu占用），查看实例列表
-version: 2.0.25.15
-repo: https://github.com/kx501/astrbot_plugin_mcsmanager
-tags: ["面板","管理"]
+display_name: MCSManager服务器管理插件
+author: 星见雅（HSOS6）
+desc: 可以通过指令管理mcsmanager内实例的插件:主要功能:通过指令开/关/重启mcsm实例，实例详情，批量操作，文件管理，面板用户管理，节点管理，支持LLM自然语言调用
+version: v26.9.9
+repo_url: https://github.com/kx501/astrbot_plugin_mcsmanager
+tags:
+  - "状态"
+  - "状态监测"
+  - "MCSM"
+  - "AI操作"
